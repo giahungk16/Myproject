@@ -13,19 +13,13 @@
 13. 
 14. Backend Section
 15. -----------------
-16. API endpoint: /api/v1/data
-17. Method: POST
-18. Auth: Bearer token
-19. Timeout: 5000ms
-20. Retry: 3 times
-21. 
-22. Database Section
-23. -----------------
-24. Engine: PostgreSQL
-25. Host: localhost
-26. Port: 5432
-27. User: admin
-28. Password: secret
+16. API endpoint: /api/v2/users
+17. Method: GET
+19. Timeout: 8000ms
+20. Retry: 5 times
+24. Engine: MySQL
+25. Host: db.production.internal
+28. Password: ********
 29. 
 30. Footer Section
 31. -----------------
