@@ -1,1 +1,1 @@
-console.log("Main updated after feature");
+console.log("Merged: feature-3 + main update");
