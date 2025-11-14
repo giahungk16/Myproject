@@ -5,11 +5,11 @@
 5.  
 6.  UI Section
 7.  -----------------
-8.  Button color: blue
-9.  Font size: 16px
-10. Padding: 12px
-11. Border radius: 8px
-12. Hover effect: shadow
+8.  Button color: #ff4500 (orange red)
+9.  Font size: 18px
+10. Padding: 16px
+11. Border radius: 12px
+12. Hover effect: glow + scale(1.05)
 13. 
 14. Backend Section
 15. -----------------
