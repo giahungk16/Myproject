@@ -1,0 +1,32 @@
+1.  Header Section
+2.  -----------------
+3.  This is the common header.
+4.  All features will keep this.
+5.  
+6.  UI Section
+7.  -----------------
+8.  Button color: blue
+9.  Font size: 16px
+10. Padding: 12px
+11. Border radius: 8px
+12. Hover effect: shadow
+13. 
+14. Backend Section
+15. -----------------
+16. API endpoint: /api/v1/data
+17. Method: POST
+18. Auth: Bearer token
+19. Timeout: 5000ms
+20. Retry: 3 times
+21. 
+22. Database Section
+23. -----------------
+24. Engine: PostgreSQL
+25. Host: localhost
+26. Port: 5432
+27. User: admin
+28. Password: secret
+29. 
+30. Footer Section
+31. -----------------
+32. © 2025 MyProject. All rights reserved.
